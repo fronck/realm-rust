@@ -1,0 +1,7 @@
+[submodule "vendor/realm-object-store"]
+	path = vendor/realm-object-store
+	url = https://github.com/realm/realm-object-store.git
+[submodule "vendor/realm-core"]
+	path = vendor/realm-core
+	url = https://github.com/realm/realm-core.git
+
